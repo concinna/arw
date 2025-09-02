@@ -1,5 +1,5 @@
 site_name: Academic Reading and Writing
-# site_url: http://127.0.0.1:8000/
+site_url: https://concinna.github.io/arw/
 copyright: Atheris hispida
 theme:
   name: material
@@ -38,7 +38,7 @@ extra_javascript:
 
 nav:
   - Week 1:
-    - 'Intro Course requirement': 'Week1_1_Intro_Course requirement_new.md'
+    - 'Intro Course requirement': 'index.md'
     - 'Thesis Research': 'Week1_2_ThesisResearchnew.md'
     - 'Uncomfortable Talk': 'Week1_3_UncomfortableTalk.md'
   - Week 2:
