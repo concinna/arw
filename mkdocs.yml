@@ -1,5 +1,6 @@
 site_name: Academic Reading and Writing
-site_url: https://concinna.github.io/arw/
+# site_url: https://concinna.github.io/arw/
+use_directory_urls: true
 copyright: Atheris hispida
 theme:
   name: material
@@ -54,3 +55,6 @@ nav:
   - 'Transcript':
     - 'arw-01-1': 'arw-01-1.md'
     - 'arw-01-2': 'arw-01-2.md'
+    - 'arw-02-1': 'arw-02-1.md'
+    - 'arw-02-2': 'arw-02-2.md'
+    - 'arw-03': 'arw-03.md'

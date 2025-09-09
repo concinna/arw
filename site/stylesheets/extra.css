@@ -20,3 +20,7 @@
 .md-search__form{
   border-radius: 5px;
 }
+
+.md-typeset pre code {
+  white-space: pre-wrap;
+}
