@@ -50,7 +50,8 @@ nav:
     - 'Literature search': 'Week3_1&2_Literature search new.md'
     - 'Literature reading': 'Week3_3_literature reading.md'
   - Week 4:
-    - 'Literature review': 'Week4_1_Literature review_new1.md'
+    - 'Literature review 1': 'Week4_1_Literature review_new1.md'
+    - 'Literature review 2': 'Week4_2_Literature review——new2.md'
   - 'Syllabus': '英文教学大纲2025.md'
   - 'Transcript':
     - 'arw-01-1': 'arw-01-1.md'
@@ -58,3 +59,13 @@ nav:
     - 'arw-02-1': 'arw-02-1.md'
     - 'arw-02-2': 'arw-02-2.md'
     - 'arw-03': 'arw-03.md'
+    - 'arw-04-1': 'arw-04-1.md'
+    - 'arw-04-2': 'arw-04-2.md'
+    - 'arw-05-1': 'arw-05-1.md'
+    - 'arw-05-2': 'arw-05-2.md'
+    - 'arw-06-1': 'arw-06-1.md'
+    - 'arw-06-2': 'arw-06-2.md'
+    - 'arw-07-1': 'arw-07-1.md'
+    - 'arw-07-2': 'arw-07-2-fixed.md'
+    - 'arw-10-1': 'arw-10-1.md'
+    - 'arw-10-2': 'arw-10-2.md'
